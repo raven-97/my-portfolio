@@ -173,7 +173,8 @@ var messages = [
   "Keep reading. It's one of the most marvelous adventures anyone can have - Lloyd Alexander",
   "A capacity, and taste, for reading gives access to whatever has already been discovered by others - Abraham Lincoln",
   "People say that life is the thing, but I prefer reading - Logan Pearsall Smith",
-  "The more that you read, the more things you will know. The more that you learn, the more places you'll go - Dr. Seuss"
+  "The more that you read, the more things you will know. The more that you learn, the more places you'll go - Dr. Seuss",
+  "Ho, Dark - Adharsh Sabukumar(Sr Software Engineer, Sedai) " 
 ];
 
 window.setInterval(nextMsg,7000);
